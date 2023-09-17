@@ -118,8 +118,7 @@ const Hero = (props: Props) => {
             Let&apos;s build from&nbsp;here
           </h1>
           <p className="relative z-1 text-[24px] md:text-[28px]  lg:text-[32px] leading-[30px] md:leading-[36px] lg:leading-[44px] mb-5 md:mb-12 md:10/12  lg:w-9/12 text-[#7d8590]">
-            Harnessed for productivity. Designed for collaboration. Celebrated
-            for built-in security. Welcome to the platform developers&nbsp;love.
+            The AI-powered developer platform to build, scale, and deliver secure software&nbsp;.
           </p>
           <div className="flex lg:w-11/12 md:space-x-5 max-md:flex-col">
             <form action="">
